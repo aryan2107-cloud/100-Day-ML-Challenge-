@@ -1,10 +1,10 @@
-# 🚀 100 Days of Machine Learning
+# 100 Days of Machine Learning
 
 A hands-on journey from data foundations to production-ready ML systems.
 
 ---
 
-## 📋 About
+## About
 
 This repository documents my 100-day challenge to master machine learning through daily projects. Each day produces working code, not just theory.
 
@@ -14,7 +14,7 @@ This repository documents my 100-day challenge to master machine learning throug
 
 ---
 
-## 🗺️ The Plan
+## The Plan
 
 | Phase | Days | Focus |
 |-------|------|-------|
@@ -26,7 +26,7 @@ This repository documents my 100-day challenge to master machine learning throug
 
 ---
 
-## ✅ Progress
+## Progress
 
 ### Phase 1: Data Foundations
 
@@ -43,7 +43,7 @@ This repository documents my 100-day challenge to master machine learning throug
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 100-days-of-ml/
@@ -63,7 +63,7 @@ This repository documents my 100-day challenge to master machine learning throug
 
 ---
 
-## 🛠️ How to Use
+## How to Use
 
 1. Clone the repo:
    ```bash
@@ -82,7 +82,7 @@ This repository documents my 100-day challenge to master machine learning throug
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Build a reusable ML toolkit
 - Understand *why* techniques work, not just *how*
@@ -91,7 +91,7 @@ This repository documents my 100-day challenge to master machine learning throug
 
 ---
 
-## 📫 Connect
+## Connect
 
 Following along or have questions? Feel free to open an issue or reach out!
 
